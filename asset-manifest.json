@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-task/static/css/main.869ee58a.css",
+    "main.js": "/test-task/static/js/main.08d3d37e.js",
+    "static/media/green-portal.png": "/test-task/static/media/green-portal.a218ca229093de6f08d2.png",
+    "static/media/widget-logo.png": "/test-task/static/media/widget-logo.42c8df0b92603ef2e2e2.png",
+    "static/media/male.svg": "/test-task/static/media/male.42d01c2c5e1d7025a594642a761f1939.svg",
+    "index.html": "/test-task/index.html",
+    "static/media/cross.svg": "/test-task/static/media/cross.5ad1eae3f079977c74a5af9a3bbfb29d.svg",
+    "static/media/genderless.svg": "/test-task/static/media/genderless.dec799ed2f3cfbb46522c185f9dbb030.svg",
+    "static/media/female.svg": "/test-task/static/media/female.02f202d68bdd63c12690625cf6aec3fd.svg",
+    "static/media/chevronUp.svg": "/test-task/static/media/chevronUp.0294cbf6e500895fd3a1f7a087b9db92.svg",
+    "static/media/chevronDown.svg": "/test-task/static/media/chevronDown.ddfc8d07ddcb0e85b106281235942c24.svg",
+    "main.869ee58a.css.map": "/test-task/static/css/main.869ee58a.css.map",
+    "main.08d3d37e.js.map": "/test-task/static/js/main.08d3d37e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869ee58a.css",
+    "static/js/main.08d3d37e.js"
+  ]
+}
